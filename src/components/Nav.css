@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+
+.navContainer{
+    display: flex;
+    margin: 2em;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    flex-direction: column;
+    
+}
+.navBlock1{
+    background-color: #8F00FF;
+    box-shadow: 0 10px 20px 5px rgba(100,0,100,0.5);
+    border-radius: 25px;
+}
+
+.navBlock2{
+    background-color: #8F00FF;
+    box-shadow: 0 10px 10px 0 rgba(100,0,100,0.3);
+    border-radius: 15px;
+    margin-top: 0.3em;
+}
+
+p{
+    padding-left: 2em;
+    padding-top: 1em;
+    color:white;
+}
+
+h1{
+    color:white;
+    padding-left: 1.5em;
+}

@@ -1,0 +1,31 @@
+.tileClass {
+    display: flex;
+    flex-wrap: wrap;
+    background-color:transparent;
+    width: 20%;
+    height: 10%;
+    border: 2px grey;
+    border-radius: 15px;
+    margin: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    perspective: 1000px;
+    padding-top: 2em;
+}
+
+.cardFrontClass{
+    background-color: #8F00FF;
+    color: white;
+    height: 8em;
+    box-shadow: 0 10px 20px 5px rgba(100,0,100,0.5);
+    width: 6em;
+    border-radius: 15px;
+}
+
+.textDiv{
+    position: relative; 
+    top: 40%
+}
